@@ -1,2 +1,2 @@
 # portfolio-works
-Personal portfolio draft.
+## Personal portfolio draft NOT applicable.
