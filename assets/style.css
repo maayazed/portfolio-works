@@ -10,7 +10,7 @@ ul {
     padding: 10px 0px;
     list-style-type: none;
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     align-items: center;
     text-align: center;
 }
@@ -45,6 +45,7 @@ nav {
     display: grid;
     gap: 16px;
     grid-template-columns: 5fr auto;
+
 }
 
 section {
